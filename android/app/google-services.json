@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "237291771385",
+    "project_id": "flutterfire-ui-codelab-9bfc9",
+    "storage_bucket": "flutterfire-ui-codelab-9bfc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237291771385:android:748239299ca9a352a21928",
+        "android_client_info": {
+          "package_name": "com.example.complete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237291771385-flaclbrmjsegtsu6t682jk4pcdcc8uje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3gX2aSdJQkZfZZlKDAQtOTCMuwQxx84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237291771385-d2h5rg6h11ur225bmggj9d6jcv4tgsff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237291771385:android:91bb09d1f5f2d30ba21928",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237291771385-n3e4b4f950l7q3rgqk6mmdhit5d3d7o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "9dc5a40b6fd484190064754df6753cb6f54e9619"
+          }
+        },
+        {
+          "client_id": "237291771385-flaclbrmjsegtsu6t682jk4pcdcc8uje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX3gX2aSdJQkZfZZlKDAQtOTCMuwQxx84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237291771385-d2h5rg6h11ur225bmggj9d6jcv4tgsff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

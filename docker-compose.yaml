@@ -1,0 +1,27 @@
+version: "3.9"
+services:
+  firebase-emulator:
+    container_name: firebase-emulator.cxcxc.xingming
+    build:
+      context: .
+      dockerfile: dockerfile
+    image: "cxcxc_xingming/flutterfire_emulator"
+    ports:
+      - "9099:9099"
+      - "9005:9005"
+      - "8085:8085"
+      - "8080:8080"
+      - "5001:5001"
+      # - "5000:5000"
+      - "4000:4000"
+      - "9199:9199"
+      - "4400:4400"
+      - "4500:4500"
+    tty: true
+    volumes:
+      - .:/home/node
+
+#     networks:
+#       - emulator-net
+# networks:
+#   emulator-net: # driver: bridge
